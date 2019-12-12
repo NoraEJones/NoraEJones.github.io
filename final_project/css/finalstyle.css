@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville|Raleway&display=swap');
+
+body {
+background-color: #00c6ff;
+font-family:"Baskervville",serif;
+color: blue;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px
+}
+
+img {
+  width: 600px;
+  margin: 0,auto;
+}
+
+#list li{
+  color: green;
+}
